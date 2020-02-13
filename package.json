@@ -1,7 +1,7 @@
 {
   "name": "feb03-w02d04",
   "version": "1.0.0",
-  "description": "",
+  "description": "### To Do - [ ] Illustrate the \"callback waterfall\" (callback hell) problem - [ ] Introduction to Promises - [ ] Error handling with Promises (vs callbacks) - [ ] Creating our own Promises - [ ] Parallelizing async things (Promise.race and Promise.all)",
   "main": "survey-promise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "readline-promise": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydlindsay/feb03-w02d04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andydlindsay/feb03-w02d04/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/feb03-w02d04#readme"
 }
