@@ -1,11 +1,11 @@
 # W2D4 - Promises
 
 ### To Do
-- [ ] Illustrate the "callback waterfall" (callback hell) problem
-- [ ] Introduction to Promises
-- [ ] Error handling with Promises (vs callbacks)
+- [x] Illustrate the "callback waterfall"
+- [x] Introduction to Promises
+- [x] Error handling with Promises (vs callbacks)
+- [ ] Parallelizing async things
 - [ ] Creating our own Promises
-- [ ] Parallelizing async things (Promise.race and Promise.all)
 
 ```js
 higherFn((err, data) => {
